@@ -1,0 +1,9 @@
+package com.bridgelabz.employeewage;
+
+public class EmpWageIntro {
+	public static void main(String[] args)
+	{
+	System.out.println("Welcome to Employee Wage Programs");
+	}
+}
+
